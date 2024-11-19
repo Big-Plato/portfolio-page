@@ -11,7 +11,7 @@
     margin: 0;
     padding: 0;
     background: linear-gradient(
-    90deg,
+    45deg,
       var(--bg-color2) 20%,
       var(--bg-color1) 40%,
       var(--bg-color4) 90%
@@ -22,7 +22,7 @@
 #navbar {
     position: fixed;
     display: flex;
-    background-color: var(--bg-color3);
+    background-color: var(--bg-color1);
     width: 100vw;
     justify-content: flex-end;
     border-bottom: 2px solid black;
